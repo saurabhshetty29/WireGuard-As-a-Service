@@ -1,4 +1,4 @@
-# WaaS - Wireguard a as a Service
+# WaaS - Wireguard as a Service
 
 WaaS is a simple tool to manage Wireguard VPNs. It is designed to be used by administrators to manage VPNs.
 
